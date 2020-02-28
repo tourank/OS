@@ -1,0 +1,15 @@
+#include "interpreter.h"
+#include "shellmemory.h"
+#include "shell.h"
+#include <stdio.h>
+#include <stdint.h>
+#include <stdlib.h>
+
+void myinit(char *filename) {
+
+    //calls add to ram
+}
+int main(int argc, const char *argv[]) {
+
+
+}
